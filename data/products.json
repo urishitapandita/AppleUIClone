@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "./img/iphone.4.webp",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone8.jpeg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 14",
+            "image": "./img/iphone.2.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple watch",
+            "image": "./img/product/apple-watch2.png",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone2.png",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "iphone",
+            "image": "./img/product/phone.webp",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11 Pro",
+            "image": "./img/product/iphone3.jpeg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone6.jpeg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11",
+            "image": "./img/product/iphone2.jpeg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Apple watch",
+            "image": "./img/product/apple-watch2.png",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone8.jpeg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone12.jpeg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone9.jpeg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Apple iPhone 11 Pro",
+            "image": "./img/product/iphone4.jpeg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "phone",
+            "image": "./img/product/Carousel_iPhone14Plus_Starlight_Placement02-PreOrder.webp",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "headphone",
+            "image": "./img/product/headphone11.jpeg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "13 pro max",
+            "image": "./img/banner_01.png",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "smart watch",
+            "image": "./img/product/apple-watch1.png",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Apple iPhone 11",
+            "image": "./img/iphone.3.webp",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "iphone",
+            "image": "./img/product/iphone13.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "./img/product/headphone5.jpeg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "apple-watch",
+            "image": "./img/product/apple-watch2.png",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "iphone",
+            "image": "./img/product/Carousel_iPhone14Plus_Starlight_Placement02-PreOrder.webp",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "./img/product/headphone8.jpeg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "./img/product/headphone9.jpeg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
